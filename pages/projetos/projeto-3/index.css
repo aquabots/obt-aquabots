@@ -82,3 +82,24 @@ nav a:hover {
 .normal {
   color: green;
 }
+
+@media screen {
+  .info {
+    display: block;
+
+    padding: 28px 40px 28px 40px;
+  }
+
+  .info-desc img {
+    max-width: 110%;
+    padding: 0%;
+  }
+
+  .info-desc{
+    margin: 0;
+  }
+
+  .info-desc p {
+    font-size: 0.8em;
+  }
+}

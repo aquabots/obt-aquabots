@@ -52,40 +52,6 @@ nav a:hover {
   padding-left: 10px;
 }
 
-#txtBusca {
-  float: left;
-  background-color: transparent;
-  padding-left: 5px;
-  font-size: 18px;
-  border: none;
-  height: 32px;
-  width: 226px;
-}
-
-/* Barra de pesquisa */
-#divBusca {
-  background-color: #2f4f4f;
-  border: solid 3px;
-  border-radius: 15px;
-  width: 251px;
-  height: 25px;
-}
-
-#txtBusca {
-  float: left;
-  background-color: transparent;
-  padding-left: 10px;
-  font-style: italic;
-  font-size: 21px;
-  border: none;
-  height: 25px;
-  width: 203px;
-}
-
-input:focus {
-  outline: none;
-}
-
 /* Texto */
 
 h1 {
