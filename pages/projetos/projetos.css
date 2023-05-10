@@ -1,5 +1,5 @@
 :root {
-  --color-primary: rgba(6, 84, 103, 0.586);
+  --color-primary: rgba(6, 84, 103);
   --color-secondary: #e9e8e4;
 }
 
@@ -20,7 +20,6 @@ header {
   background-color: var(--color-primary);
   color: #fff;
   padding: 20px;
-  opacity: 75%;
 }
 
 header h1 {
@@ -245,12 +244,9 @@ https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
 @media screen {
   .arrow-right {
     right: -17px;
-
-}
-.arrow-left  {
-
-  top: 0;
-  left: -30px;
-
-}
+  }
+  .arrow-left {
+    top: 0;
+    left: -30px;
+  }
 }

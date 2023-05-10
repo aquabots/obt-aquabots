@@ -1,5 +1,5 @@
 :root {
-  --color-primary: rgba(6, 84, 103, 0.705);
+  --color-primary: rgba(6, 84, 103);
   --color-secondary: #e9e8e4;
 }
 
@@ -14,7 +14,6 @@ header {
   background-color: var(--color-primary);
   color: #fff;
   padding: 20px;
-  opacity: 75%;
 }
 
 header h1 {
